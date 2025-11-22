@@ -15,7 +15,7 @@ const Marks2Grades = ({marks}: Marks2GradesProps) => {
     }
   return (
     <div>
-      <h1 className=" fornt-bold text-1xl">Answer 3</h1>
+      <h1 className=" font-bold text-1xl">Answer 3</h1>
     Result: {marktoGrades(marks)}
     </div>
   )
